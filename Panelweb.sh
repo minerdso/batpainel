@@ -57,14 +57,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>SSHPLUS-MANAGER-FREE/README.md at master · AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE</title>
+  <title>SSHPLUS-MANAGER-FREE/Panelweb.sh at master · AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE</title>
     <meta name="description" content="Manager Script. Contribute to AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/ab8952bcc544da9577b3f7787d573a7413a66ef63d5da83866e417e2bd7849d3/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="SSHPLUS-MANAGER-FREE/README.md at master · AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE" /><meta name="twitter:description" content="Manager Script. Contribute to AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/ab8952bcc544da9577b3f7787d573a7413a66ef63d5da83866e417e2bd7849d3/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE" /><meta property="og:image:alt" content="Manager Script. Contribute to AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="SSHPLUS-MANAGER-FREE/README.md at master · AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE" /><meta property="og:url" content="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE" /><meta property="og:description" content="Manager Script. Contribute to AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/ab8952bcc544da9577b3f7787d573a7413a66ef63d5da83866e417e2bd7849d3/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="SSHPLUS-MANAGER-FREE/Panelweb.sh at master · AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE" /><meta name="twitter:description" content="Manager Script. Contribute to AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/ab8952bcc544da9577b3f7787d573a7413a66ef63d5da83866e417e2bd7849d3/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE" /><meta property="og:image:alt" content="Manager Script. Contribute to AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="SSHPLUS-MANAGER-FREE/Panelweb.sh at master · AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE" /><meta property="og:url" content="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE" /><meta property="og:description" content="Manager Script. Contribute to AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE development by creating an account on GitHub." />
     
 
 
@@ -72,11 +72,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/20786530/ws?session=eyJ2IjoiVjMiLCJ1IjoyMDc4NjUzMCwicyI6ODUxMDM3Njg1LCJjIjo0MTczNzEyNDk4LCJ0IjoxNjQ3OTg4OTIyfQ==--a9649f1e502005ab000b9a08eb89160234223ceb2cd5beda79815eadcc82042c" data-refresh-url="/_alive" data-session-id="428580831b74b908dfe4b980bf5a2f461f8692d077bee4bb3e52b7d14d4dbd62">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/20786530/ws?session=eyJ2IjoiVjMiLCJ1IjoyMDc4NjUzMCwicyI6ODUxMDM3Njg1LCJjIjozODUxNzAyMjM0LCJ0IjoxNjQ3OTg4ODY1fQ==--ef855f0f9c5e4bb2f7b0a5ca79c25edc33a5d6b2cf89904484bb5f83a524ffaf" data-refresh-url="/_alive" data-session-id="428580831b74b908dfe4b980bf5a2f461f8692d077bee4bb3e52b7d14d4dbd62">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-dae024e51136.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="DF86:61BB:24888F:3152CF:623A50B9" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d371e0299452f783f37c51109442e3cf4fa548dcf844e79d73fe8822a4f926f5" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BQUFBQUVYUU9TeUlwTjJKWjBlaFVRL1NTSFBMVVMtTUFOQUdFUi1GUkVFL3RyZWUvbWFzdGVyL0luc3RhbGwvUGFuZWxfV2ViIiwicmVxdWVzdF9pZCI6IkRGODY6NjFCQjoyNDg4OEY6MzE1MkNGOjYyM0E1MEI5IiwidmlzaXRvcl9pZCI6IjYwMjYyMTU5NzMxMTc1NTc0NCIsInJlZ2lvbl9lZGdlIjoiYnJhemlsc291dGgiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="65489c91f59993888bddc0b3a05b2e0dad1582d16263e675a359915d7cc9fc05" data-pjax-transient="true" />
+  <meta name="request-id" content="DF78:61BA:122502:1EDBC1:623A5081" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d371e0299452f783f37c51109442e3cf4fa548dcf844e79d73fe8822a4f926f5" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BQUFBQUVYUU9TeUlwTjJKWjBlaFVRL1NTSFBMVVMtTUFOQUdFUi1GUkVFL3RyZWUvbWFzdGVyL0luc3RhbGwvUGFuZWxfV2ViIiwicmVxdWVzdF9pZCI6IkRGNzg6NjFCQToxMjI1MDI6MUVEQkMxOjYyM0E1MDgxIiwidmlzaXRvcl9pZCI6IjYwMjYyMTU5NzMxMTc1NTc0NCIsInJlZ2lvbl9lZGdlIjoiYnJhemlsc291dGgiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="5244f25f9d1af5ed36bff682cdb24a706293f16f21a3b73d37df1b1889ae1cee" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:178086467" data-pjax-transient>
 
@@ -112,7 +112,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MjA5MGRiYmNlMzJmMTUzNDZiODI4YjQyNTVhNTUzZmU4ZjUyODgwNjRmNzg3NzA0MWM1ZTNjNTk3NDQzNDE2NXx7InJlbW90ZV9hZGRyZXNzIjoiMjAwLjIyMi4yNDEuMjE2IiwicmVxdWVzdF9pZCI6IkRGODY6NjFCQjoyNDg4OEY6MzE1MkNGOjYyM0E1MEI5IiwidGltZXN0YW1wIjoxNjQ3OTg4OTIyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="YjhjYzliMTQ3ZjhlMmZkMGExY2UyMGZiZTdhY2RmYmI1YTE5ZDMyM2E4MzE5ZWExZjg3ZmYzNmNjZWI2OGQ5MHx7InJlbW90ZV9hZGRyZXNzIjoiMjAwLjIyMi4yNDEuMjE2IiwicmVxdWVzdF9pZCI6IkRGNzg6NjFCQToxMjI1MDI6MUVEQkMxOjYyM0E1MDgxIiwidGltZXN0YW1wIjoxNjQ3OTg4ODY1LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -130,7 +130,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/Panelweb.sh" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -219,7 +219,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="fN1BLLgoOm_JbLvMF5XB8h2SZuaJQaNhf_lfHZeRQ8u4m5ChdHfEEdGTqZPWNhgFgyeXCuDfbAq_m--rfJjSCA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="H99KIRUUnvzz-OvXebMOWBZFFuz_29csX1Pf2pwZ5BHbmZus2UtggusH-Yi4ENeviPDnAJZFGEefMW9sdxB10g" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -418,7 +418,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;minerdso&quot;,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="d122b90fb9097dbe7d8322e8e883b2d85d824f166ad883f2a028a7edc91bb3fa" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;minerdso&quot;,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/Panelweb.sh&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="c8771dc7023d63d1e4244ae33021cabec670583845375adc324c00c9a1138582" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -426,7 +426,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/20786530?s=40&amp;v=4" width="20" height="20" alt="@minerdso" />
       minerdso
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ExBF9Hxf7ahD1T40tznZefsyp0I6boIcU-pEUOP7lv9CC1Y166O3TBzhfkJRClY7pc_AC7slxRmSWPo5IcaPTQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="m3qPKjDZjL1RQeZIlGredLOLEI47mM4zLWHEruM0ErjKYZzrpyXWWQ51pj5yWVE27XZ3x7rTiTbs03rHIQkLCg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -465,7 +465,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MjA3ODY1MzAiLCJ0IjoxNjQ3OTg4OTIyfQ==--e4e557f47bb64c3d497c9f26ef30ac2ee00ff071ac889f64a3075b6356b15a16">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MjA3ODY1MzAiLCJ0IjoxNjQ3OTg4ODY1fQ==--fc665e033ddd6d5f0c9ca572a2d67aba59dfa333b13e88a63437f29063a0b2d3">
         <a href="/notifications"
           data-turbo=false
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
@@ -602,7 +602,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md
+      data-return-to=/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/Panelweb.sh
       data-user-id="20786530"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -615,7 +615,7 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="bNmUEO_O8yPiJUFvfmZeS3HVNtNyD7c372bTAGKotGeUgCB2YNV5h6_naK0eKOsTscoOJfh8njJnAp9xM0b05w" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="btZXycf2WcSeaGurWsBHFqeoxjSOjsgKhhXOeK69u9iWj-OvSO3TYNOqQmk6jvJOZ7f-wgT94Q8OcYIJ_1P7WA" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1503,7 +1503,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="3c3ea574b993b19a33d2c2ee570800cb6ae0ee7e28a6a08ec745a21f8bef5ec0" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/Panelweb.sh&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="7456b452dc82d1d7668fa72800258ab4074dfef6059fc32fac7931390a378674" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1555,7 +1555,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hU5R9Hv4p5FOMLQfcoN-Iryr0xk5psXJlCSQgpO1vkwEDvBPvQ0O5C3pZlsjTtLCxEXce7pSG8TWccBP6t6ICw" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9ELAeo3JMToDyCV0g6uDI004rw-MhtDmEKraStZxWG11AmHBSzyYT2AR9zDSZi_DNdagbQ9yDutS_4qHrxpuKg" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="178086467">
 
@@ -1673,7 +1673,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="904p1N5H1JZzVC9hIBNaPFqgDXYE7f1v9O_UproAsUZ2DohvGLJ94xCN_SVx3vbcIk4CFIcZI2K2uoRrw2uHAQ" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5QFPpyg9xuci5zppRR3w4TW1pNzSo-HZEkFeCBBxxRpkQe4c7shvkkE-6C0U0FwBTVurvlFXP9RQFA7FaRrzXQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="178086467">
 
@@ -1820,7 +1820,7 @@
   <li>
             <div class="float-left">
         <details class="details-reset details-overlay details-overlay-dark " >
-                <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="4a5238bad5f41fac515c00128176e519a5a1f68da24734c6828ad147da3b70a9" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE to your account" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+                <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/Panelweb.sh&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="6a0bd2727a5215cae78b42cdda46a750cdd805c01d608e872d3b78caf68db1af" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE to your account" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
               <span id="repo-network-counter" data-pjax-replace="true" title="203" data-view-component="true" class="Counter">203</span>
@@ -1876,18 +1876,18 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3FfHOYhTPwVG78fXi--dNssADdrBQLXhoWzdN1oWqqHYsgswPqmkxEwgfgmjZcQlqVAp7SkrDL9SI0i_myx0Tg" autocomplete="off" />
-        <input type="hidden" value="SaRPv0H_BjLY489p8TqU-gnB3Hnt7eBBTvBgsaKeF4RNQYO29wWd89IsdrfZsM3pa5H4TgWGWR-9v_U5Y6TJaw" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4D3H9OOQ1SKK4aOeE_sBUMt9tt-lVm07iFCSJZmdOs3k2Av9VWpO44AuGkA7cVhDqS2S6E091GV7HwetWKfkIg" autocomplete="off" />
+        <input type="hidden" value="pEPkTrCVaRmUm4wUc_ozSfh5FS5TrtARKECYOhbbdVegpihHBm_y2J5UNcpbcGpamikxGbvFaU_bDw2y1-GruA" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="22a2ce0286764e41aeaa08428ed1483aefeacc30c31fa5f0c7cc5032037da4ab" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/Panelweb.sh&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="78af25af0295aad082de3c3e18f358b860a9925fc02b108e847728bcf75cb442" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="106 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="106" data-view-component="true" class="Counter js-social-count">106</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XqRGarvFLWvDbpmpivyVHMSaW91WMIvgUUWlyYYeOS1V9MBe_paHntUDdoPlBsMaSG1TxWrEr86TE5nRn_bnJA" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hzFWpt19j-DAQngK6E-M7d4-GcpVD3UuS7m7HdCZi8-MYdCSmC4lFdYvlyCHtdrrUskR0mn7UQCJ74cFyXFVxg" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="74a77b4fe1b0a63bdcff43e6abcacdcabb129099c253e4d1203bed00e07eff0d" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/Panelweb.sh&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="288575202a7dde67a8c69f10bd99d5e8e1b94f4ed1f75c285ac7f65bf782e9aa" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1906,13 +1906,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-21e4de">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-1b40b5">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-21e4de"
+        id="filter-menu-1b40b5"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2115,7 +2115,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/112404c3463dd46b757367a412f907297d285656/Install/Panel_Web/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/112404c3463dd46b757367a412f907297d285656/Install/Panel_Web/Panelweb.sh">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2200,7 +2200,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/{{ urlEncodedRefName }}/Install/Panel_Web/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/{{ urlEncodedRefName }}/Install/Panel_Web/Panelweb.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2240,7 +2240,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/{{ urlEncodedRefName }}/Install/Panel_Web/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/{{ urlEncodedRefName }}/Install/Panel_Web/Panelweb.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2271,7 +2271,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE"><span>SSHPLUS-MANAGER-FREE</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install"><span>Install</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web"><span>Panel_Web</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE"><span>SSHPLUS-MANAGER-FREE</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install"><span>Install</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web"><span>Panel_Web</span></a></span><span class="separator">/</span><strong class="final-path">Panelweb.sh</strong>
   </h2>
   <a href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
 </a>
@@ -2282,7 +2282,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="f10d802af0c8882484c542203eb5d3cf531d8f580633f35386fe2a40a5ad5a33" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/Panelweb.sh&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="8dbea3d49342a7517fca9c750392d4b0dcd92cf360151c1ade9ab776e0b8f3f8" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2294,13 +2294,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Install/Panel_Web/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Install/Panel_Web/Panelweb.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/112404c3463dd46b757367a412f907297d285656/Install/Panel_Web/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/112404c3463dd46b757367a412f907297d285656/Install/Panel_Web/Panelweb.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2332,17 +2332,80 @@
     <include-fragment src="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/spoofed_commit_check/112404c3463dd46b757367a412f907297d285656" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/contributors/master/Install/Panel_Web/README.md" class="commit-loader">
-    <div class="Box-header d-flex flex-items-center">
-      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-    </div>
+  
+  <div class="Box-header Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/AAAAAEXQOSyIpN2JZ0ehUQ/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AAAAAEXQOSyIpN2JZ0ehUQ"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/36234074?s=48&amp;v=4" width="24" height="24" alt="@AAAAAEXQOSyIpN2JZ0ehUQ" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/AAAAAEXQOSyIpN2JZ0ehUQ/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AAAAAEXQOSyIpN2JZ0ehUQ">AAAAAEXQOSyIpN2JZ0ehUQ</a>
 
-    <div class="Box-body d-flex flex-items-center" >
-      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
-    </div>
-</include-fragment></div>
+              <span class="markdown-title">
+                <a data-pjax="true" title="Update Script" class="Link--secondary" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/commit/c3c8d7d2f67e2c7a23e06e27a14da33f4bb031e3">Update Script</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/commit/c3c8d7d2f67e2c7a23e06e27a14da33f4bb031e3/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
+        </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/commit/c3c8d7d2f67e2c7a23e06e27a14da33f4bb031e3" data-pjax>c3c8d7d</a>
+            <span itemprop="dateModified"><relative-time datetime="2021-10-04T04:52:15Z" class="no-wrap">Oct 4, 2021</relative-time></span>
+          </span>
+
+          <a data-pjax href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/commits/master/Install/Panel_Web/Panelweb.sh" class="ml-3 no-wrap Link--primary no-underline">
+            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/contributors-list/master/Install/Panel_Web/Panelweb.sh" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+</div>
 
 
 
@@ -2354,74 +2417,34 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}"
-  data-menu-hydro-click-hmac="c0bd88d77f65c769ecc560c8aee4af2a777454f90a86604cc43d136221044d2d"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="f39ffbb17d8254253e20e4f73cb074f698d7b841678f52289eb7e7d7238bf8f9" href="#painel-revenda-ssh-versiones">PAINEL REVENDA SSH (VERSIONES)</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="f39ffbb17d8254253e20e4f73cb074f698d7b841678f52289eb7e7d7238bf8f9" href="#heavy_exclamation_mark-requerimientos"><g-emoji class="g-emoji" alias="exclamation" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png">❗</g-emoji> Requerimientos</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="f39ffbb17d8254253e20e4f73cb074f698d7b841678f52289eb7e7d7238bf8f9" href="#book-installation"><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Installation</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="f39ffbb17d8254253e20e4f73cb074f698d7b841678f52289eb7e7d7238bf8f9" href="#scroll-changelog"><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> Changelog</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:178086467,&quot;originating_url&quot;:&quot;https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md&quot;,&quot;user_id&quot;:20786530}}" data-hydro-click-hmac="f39ffbb17d8254253e20e4f73cb074f698d7b841678f52289eb7e7d7238bf8f9" href="#octocat-credits"><img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Credits</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      40 lines (27 sloc)
+      269 lines (267 sloc)
       <span class="file-info-divider"></span>
-    1.31 KB
+    8.61 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-    <a href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md?plain=1" data-permalink-href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/112404c3463dd46b757367a412f907297d285656/Install/Panel_Web/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>    <a href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Install/Panel_Web/README.md" data-permalink-href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/112404c3463dd46b757367a412f907297d285656/Install/Panel_Web/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-      <a data-permalink-href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/raw/112404c3463dd46b757367a412f907297d285656/Install/Panel_Web/README.md" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/raw/master/Install/Panel_Web/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
-</a>        <a data-permalink-href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blame/112404c3463dd46b757367a412f907297d285656/Install/Panel_Web/README.md" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blame/master/Install/Panel_Web/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+      <a data-permalink-href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/raw/112404c3463dd46b757367a412f907297d285656/Install/Panel_Web/Panelweb.sh" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/raw/master/Install/Panel_Web/Panelweb.sh" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+</a>        <a data-permalink-href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blame/112404c3463dd46b757367a412f907297d285656/Install/Panel_Web/Panelweb.sh" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blame/master/Install/Panel_Web/Panelweb.sh" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
 </a>    </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE?branch=master&amp;filepath=Install%2FPanel_Web%2FREADME.md"
+             href="x-github-client://openRepo/https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE?branch=master&amp;filepath=Install%2FPanel_Web%2FPanelweb.sh"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2430,7 +2453,7 @@
           </a>
 
         
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/edit/master/Install/Panel_Web/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xNioJFGozLYqWAe9NqXhU6HlAUdFUW6aTxJrE6HzpnateR2D2PnYFdjtYEaWueBLqTwoUs-UfOYEn_tBHVofyQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/edit/master/Install/Panel_Web/Panelweb.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jk9C6yv_ZsWw6V61k6uvFPeLgrcAKygAancIIUzlMReNlIpRVFduHwdWDezRoxc-4i9EfEu3r5L29cf4fYU9mg" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2438,7 +2461,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/delete/master/Install/Panel_Web/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_J9h7iyD28IbKVgQespN-wQuJaHC40svn7YoqJw8dzCwGVJpOwb9rCINpujmQ1BmWjDVADXq1vol1Bc5dK2bAA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/delete/master/Install/Panel_Web/Panelweb.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eU8Zsjy2pkgZ-xb0dUIqOdPlvy1PP-0Vr30LXYsEVRlrk4PU6P0SC_SHnFcFbnTCRVJiMgoxx85oILzKpg9mxQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2450,7 +2473,7 @@
 
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
-        <summary class="btn-octicon p-2" aria-haspopup="true" aria-label="possible actions">
+        <summary class="btn-octicon" aria-haspopup="true" aria-label="possible actions">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
 </svg>
@@ -2460,30 +2483,30 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE?branch=master&amp;filepath=Install%2FPanel_Web%2FREADME.md"
+                   href="x-github-client://openRepo/https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE?branch=master&amp;filepath=Install%2FPanel_Web%2FPanelweb.sh"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/raw/master/Install/Panel_Web/README.md">
+            <a class="dropdown-item" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/raw/master/Install/Panel_Web/Panelweb.sh">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blame/master/Install/Panel_Web/README.md">
+              <a class="dropdown-item" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blame/master/Install/Panel_Web/Panelweb.sh">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/edit/master/Install/Panel_Web/README.md">Edit file</a>
+                <a class="dropdown-item" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/edit/master/Install/Panel_Web/Panelweb.sh">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/delete/master/Install/Panel_Web/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/delete/master/Install/Panel_Web/Panelweb.sh">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2491,42 +2514,1148 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-painel-revenda-ssh-versiones" class="anchor" aria-hidden="true" href="#painel-revenda-ssh-versiones"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>PAINEL REVENDA SSH (VERSIONES)</h1>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Panel_SSHPLUS_Web.jpg"><img src="https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/raw/master/Imagenes/Panel_SSHPLUS_Web.jpg" alt="logo" style="max-width: 100%;"></a></p>
-<p dir="auto"><strong>Manager Script</strong></p>
-<h2 dir="auto"><a id="user-content-heavy_exclamation_mark-requerimientos" class="anchor" aria-hidden="true" href="#heavy_exclamation_mark-requerimientos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="exclamation" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png">❗</g-emoji> Requerimientos</h2>
-<ul dir="auto">
-<li>Un sistema operativo basado en Linux (Ubuntu o Debian)</li>
-<li>Ubuntu 14.04 Server x86_64 / Ubuntu 16.04 Server x86_64 / Ubuntu 18.04 Server x86_64</li>
-<li>Debian 8 Server x86_64 / Debian 9 Server x86_64</li>
-<li>Recomendamos Ubuntu 14.04 Server x86_64</li>
-<li>Se recomienda usar una distro nueva o formatiada</li>
-<li>En caso de error instalar: apt-get install php-ssh2 -y</li>
-</ul>
-<h2 dir="auto"><a id="user-content-book-installation" class="anchor" aria-hidden="true" href="#book-installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Installation</h2>
-<p dir="auto">apt-get update -y; apt-get upgrade -y; wget <a href="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/Panelweb.sh" rel="nofollow">https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/Panelweb.sh</a>; chmod +x Panelweb.sh; ./Panelweb.sh</p>
-<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="Despues solo necesitara ejecutar la siguiente linea para usar nuevamente: ipw"><pre><code>Despues solo necesitara ejecutar la siguiente linea para usar nuevamente: ipw
-</code></pre></div>
-<hr>
-<h2 dir="auto"><a id="user-content-scroll-changelog" class="anchor" aria-hidden="true" href="#scroll-changelog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> Changelog</h2>
-<p dir="auto"><strong>VERSION: r002</strong></p>
-<p dir="auto"><a href="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/versao" rel="nofollow">https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/versao</a></p>
-<h2 dir="auto"><a id="user-content-octocat-credits" class="anchor" aria-hidden="true" href="#octocat-credits"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Credits</h2>
-<ol dir="auto">
-<li>@crazy_vpn - Developer of Painel Revenda SSH</li>
-<li>@backup-new - Contributor</li>
-<li>@Adeilsonfi - Contributor</li>
-<li>illuminati Dev Team - Contributor</li>
-</ol>
-<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆"><pre><code>☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
-</code></pre></div>
-</article>
+      
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-shell  gist-border-0">
+
+      
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">  Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Shell" data-tagsearch-path="Install/Panel_Web/Panelweb.sh">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#!</span>/bin/bash</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">barra=<span class="pl-s"><span class="pl-pds">&quot;</span>\033[0m\e[34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">[[ <span class="pl-k">!</span> <span class="pl-k">-e</span> /bin/ipw ]] <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>/root/Panelweb.sh<span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;</span> /bin/ipw <span class="pl-k">&amp;&amp;</span> chmod +x /bin/ipw <span class="pl-c"><span class="pl-c">#</span>ACCESO RAPIDO</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-en">fun_bar</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">comando[0]=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$1</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">comando[1]=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$2</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"> (</td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">[[ <span class="pl-k">-e</span> <span class="pl-smi">$HOME</span>/fim ]] <span class="pl-k">&amp;&amp;</span> rm <span class="pl-smi">$HOME</span>/fim</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">${comando[0]}</span> <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span></td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">${comando[1]}</span> <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span></td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">touch <span class="pl-smi">$HOME</span>/fim</td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"> ) <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span> <span class="pl-k">&amp;</span></td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"> tput civis</td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -ne <span class="pl-s"><span class="pl-pds">&quot;</span>  \033[1;33mAGUARDE \033[1;37m- \033[1;33m[<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-k">while</span> <span class="pl-c1">true</span><span class="pl-k">;</span> <span class="pl-k">do</span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">   for<span class="pl-s"><span class="pl-pds">((</span>i<span class="pl-k">=</span><span class="pl-c1">0</span>; i<span class="pl-k">&lt;</span><span class="pl-c1">18</span>; i<span class="pl-k">++</span><span class="pl-pds">))</span></span><span class="pl-k">;</span> <span class="pl-k">do</span></td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">   <span class="pl-c1">echo</span> -ne <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m#<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">   sleep 0.1s</td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">   <span class="pl-k">done</span></td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">   [[ <span class="pl-k">-e</span> <span class="pl-smi">$HOME</span>/fim ]] <span class="pl-k">&amp;&amp;</span> rm <span class="pl-smi">$HOME</span>/fim <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">break</span></td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">   <span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;33m]<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">   sleep 1s</td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">   tput cuu1</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">   tput dl1</td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">   <span class="pl-c1">echo</span> -ne <span class="pl-s"><span class="pl-pds">&quot;</span>  \033[1;33mAGUARDE \033[1;37m- \033[1;33m[<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-k">done</span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;33m]\033[1;37m -\033[1;32m OK !\033[1;37m<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">tput cnorm</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">IP=<span class="pl-s"><span class="pl-pds">$(</span>cat /etc/IP<span class="pl-pds">)</span></span></td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">x=<span class="pl-s"><span class="pl-pds">&quot;</span>ok<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-en">menu</span> ()</td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>PAINEL A INSTALAR</span></td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v10</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v10/Painel.sh <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x Painel.sh<span class="pl-k">;</span> ./Painel.sh</td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v10_2</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v10_2/install.sh <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x install.sh<span class="pl-k">;</span> ./install.sh</td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v11</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v11/Painelv11.sh <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x Painelv11.sh<span class="pl-k">;</span> ./Painelv11.sh</td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v11_2</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v11_2/install <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x install<span class="pl-k">;</span> ./install</td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v12</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v12/install <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x install<span class="pl-k">;</span> ./install</td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v15</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v15/install <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x install<span class="pl-k">;</span> ./install</td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v15_2</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v15_2/ocspanel <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x ocspanel<span class="pl-k">;</span> ./ocspanel</td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v20</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/install <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod 777 install<span class="pl-k">*</span> <span class="pl-k">&amp;&amp;</span> ./install<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v20_mod</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20_mod/install <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x install<span class="pl-k">;</span> ./install</td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v23</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v23/install <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x install<span class="pl-k">;</span> ./install</td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v23_2</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v23_2/install <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x install<span class="pl-k">;</span> ./install</td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_v25</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v25/install <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x install<span class="pl-k">;</span> ./install</td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>UPDATE VIP-VPS v23 a v25</span></td>
+        </tr>
+        <tr>
+          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class="pl-en">panel_update2325</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line">wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v23_2/atu-v23-p-v25 <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> chmod +x atu-v23-p-v25<span class="pl-k">;</span> ./atu-v23-p-v25</td>
+        </tr>
+        <tr>
+          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
+          <td id="LC74" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
+          <td id="LC75" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>CLEAN FOLDER</span></td>
+        </tr>
+        <tr>
+          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
+          <td id="LC76" class="blob-code blob-code-inner js-file-line"><span class="pl-en">clean_folder</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
+          <td id="LC77" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
+          <td id="LC78" class="blob-code blob-code-inner js-file-line">fun_bar <span class="pl-s"><span class="pl-pds">&quot;</span>apt-get update -y<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
+          <td id="LC79" class="blob-code blob-code-inner js-file-line">fun_bar <span class="pl-s"><span class="pl-pds">&quot;</span>apt-get upgrade -y<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
+          <td id="LC80" class="blob-code blob-code-inner js-file-line">fun_bar <span class="pl-s"><span class="pl-pds">&quot;</span>service ssh restart<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
+          <td id="LC81" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>#LIMPIA FILES</span></td>
+        </tr>
+        <tr>
+          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
+          <td id="LC82" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/install<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
+          <td id="LC83" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/install.sh<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
+          <td id="LC84" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/ocspanel<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
+          <td id="LC85" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/Painel.sh<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
+          <td id="LC86" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/Painelv11.sh<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
+          <td id="LC87" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/banco.sql<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
+          <td id="LC88" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/BD-Painel-v23.sql<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
+          <td id="LC89" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/sshplus.sql<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
+          <td id="LC90" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/bd-v15.sql<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
+          <td id="LC91" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/ssh.sql<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
+          <td id="LC92" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/plus.sql<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
+          <td id="LC93" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/Panelweb.sh<span class="pl-k">*</span> <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/Panelweb.sh <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span></td>
+        </tr>
+        <tr>
+          <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
+          <td id="LC94" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
+          <td id="LC95" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;33m CLEAN FOLDER COM SUCESSO -\033[1;32m OK !\033[1;37m<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
+          <td id="LC96" class="blob-code blob-code-inner js-file-line">sleep 4s</td>
+        </tr>
+        <tr>
+          <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
+          <td id="LC97" class="blob-code blob-code-inner js-file-line">chmod +x Panelweb.sh<span class="pl-k">;</span> ./Panelweb.sh</td>
+        </tr>
+        <tr>
+          <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
+          <td id="LC98" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
+          <td id="LC99" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>PANIL REMOVE</span></td>
+        </tr>
+        <tr>
+          <td id="L100" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="100"></td>
+          <td id="LC100" class="blob-code blob-code-inner js-file-line"><span class="pl-en">remove_panel</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L101" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="101"></td>
+          <td id="LC101" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L102" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="102"></td>
+          <td id="LC102" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L103" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="103"></td>
+          <td id="LC103" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;36mDESINTALAR PANEL WEB<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L104" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="104"></td>
+          <td id="LC104" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L105" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="105"></td>
+          <td id="LC105" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -ne <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;37mDesinstalar MySQL [N/S]: \033[1;37m<span class="pl-pds">&quot;</span></span><span class="pl-k">;</span> <span class="pl-c1">read</span> x</td>
+        </tr>
+        <tr>
+          <td id="L106" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="106"></td>
+          <td id="LC106" class="blob-code blob-code-inner js-file-line">[[ <span class="pl-smi">$x</span> <span class="pl-k">=</span> <span class="pl-k">@</span>(n<span class="pl-k">|</span>N) ]] <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">exit</span></td>
+        </tr>
+        <tr>
+          <td id="L107" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="107"></td>
+          <td id="LC107" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>#sudo </span></td>
+        </tr>
+        <tr>
+          <td id="L108" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="108"></td>
+          <td id="LC108" class="blob-code blob-code-inner js-file-line">apt-get purge mysql-server mysql-client mysql-common mysql-server-core-<span class="pl-k">*</span> mysql-client-core-<span class="pl-k">*</span></td>
+        </tr>
+        <tr>
+          <td id="L109" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="109"></td>
+          <td id="LC109" class="blob-code blob-code-inner js-file-line">rm -rf /etc/mysql /var/lib/mysql</td>
+        </tr>
+        <tr>
+          <td id="L110" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="110"></td>
+          <td id="LC110" class="blob-code blob-code-inner js-file-line">apt-get autoremove</td>
+        </tr>
+        <tr>
+          <td id="L111" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="111"></td>
+          <td id="LC111" class="blob-code blob-code-inner js-file-line">apt-get autoclean</td>
+        </tr>
+        <tr>
+          <td id="L112" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="112"></td>
+          <td id="LC112" class="blob-code blob-code-inner js-file-line">service apache2 restart</td>
+        </tr>
+        <tr>
+          <td id="L113" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="113"></td>
+          <td id="LC113" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L114" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="114"></td>
+          <td id="LC114" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;36mPANEL ELIMINADO COM SUCESSO -\033[1;32m OK !\033[1;37m<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L115" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="115"></td>
+          <td id="LC115" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L116" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="116"></td>
+          <td id="LC116" class="blob-code blob-code-inner js-file-line">sleep 4s</td>
+        </tr>
+        <tr>
+          <td id="L117" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="117"></td>
+          <td id="LC117" class="blob-code blob-code-inner js-file-line">chmod +x Panelweb.sh<span class="pl-k">;</span> ./Panelweb.sh</td>
+        </tr>
+        <tr>
+          <td id="L118" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="118"></td>
+          <td id="LC118" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L119" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="119"></td>
+          <td id="LC119" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>OPCIONES DE SISTEMA</span></td>
+        </tr>
+        <tr>
+          <td id="L120" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="120"></td>
+          <td id="LC120" class="blob-code blob-code-inner js-file-line"><span class="pl-en">atualizar</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L121" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="121"></td>
+          <td id="LC121" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L122" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="122"></td>
+          <td id="LC122" class="blob-code blob-code-inner js-file-line">fun_bar <span class="pl-s"><span class="pl-pds">&quot;</span>apt-get update -y<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L123" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="123"></td>
+          <td id="LC123" class="blob-code blob-code-inner js-file-line">fun_bar <span class="pl-s"><span class="pl-pds">&quot;</span>apt-get upgrade -y<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L124" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="124"></td>
+          <td id="LC124" class="blob-code blob-code-inner js-file-line"><span class="pl-en">fun_att</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L125" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="125"></td>
+          <td id="LC125" class="blob-code blob-code-inner js-file-line">    service ssh restart <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span></td>
+        </tr>
+        <tr>
+          <td id="L126" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="126"></td>
+          <td id="LC126" class="blob-code blob-code-inner js-file-line">    rm -rf <span class="pl-smi">$HOME</span>/Panelweb.sh<span class="pl-k">*</span> <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span></td>
+        </tr>
+        <tr>
+          <td id="L127" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="127"></td>
+          <td id="LC127" class="blob-code blob-code-inner js-file-line">    wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/Panelweb.sh <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span></td>
+        </tr>
+        <tr>
+          <td id="L128" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="128"></td>
+          <td id="LC128" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L129" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="129"></td>
+          <td id="LC129" class="blob-code blob-code-inner js-file-line">fun_bar <span class="pl-s"><span class="pl-pds">&#39;</span>fun_att<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L130" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="130"></td>
+          <td id="LC130" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L131" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="131"></td>
+          <td id="LC131" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;33m UPDATE COM SUCESSO -\033[1;32m OK !\033[1;37m<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L132" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="132"></td>
+          <td id="LC132" class="blob-code blob-code-inner js-file-line">sleep 4s</td>
+        </tr>
+        <tr>
+          <td id="L133" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="133"></td>
+          <td id="LC133" class="blob-code blob-code-inner js-file-line">chmod +x Panelweb.sh<span class="pl-k">;</span> ./Panelweb.sh</td>
+        </tr>
+        <tr>
+          <td id="L134" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="134"></td>
+          <td id="LC134" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L135" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="135"></td>
+          <td id="LC135" class="blob-code blob-code-inner js-file-line"><span class="pl-en">remove_multiscripts</span> () {</td>
+        </tr>
+        <tr>
+          <td id="L136" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="136"></td>
+          <td id="LC136" class="blob-code blob-code-inner js-file-line">rm -rf <span class="pl-smi">$HOME</span>/Panelweb.sh<span class="pl-k">*</span> <span class="pl-k">&amp;&amp;</span> rm -rf /bin/ipw</td>
+        </tr>
+        <tr>
+          <td id="L137" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="137"></td>
+          <td id="LC137" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L138" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="138"></td>
+          <td id="LC138" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L139" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="139"></td>
+          <td id="LC139" class="blob-code blob-code-inner js-file-line"><span class="pl-k">while</span> <span class="pl-c1">true</span> <span class="pl-smi">$x</span> <span class="pl-k">!</span>= <span class="pl-s"><span class="pl-pds">&quot;</span>ok<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L140" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="140"></td>
+          <td id="LC140" class="blob-code blob-code-inner js-file-line"><span class="pl-k">do</span></td>
+        </tr>
+        <tr>
+          <td id="L141" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="141"></td>
+          <td id="LC141" class="blob-code blob-code-inner js-file-line">_usor=<span class="pl-s"><span class="pl-pds">$(</span>printf <span class="pl-s"><span class="pl-pds">&#39;</span>%-8s<span class="pl-pds">&#39;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-s"><span class="pl-pds">$(</span>free -m <span class="pl-k">|</span> awk <span class="pl-s"><span class="pl-pds">&#39;</span>NR==2{printf &quot;%.2f%%&quot;, $3*100/$2 }<span class="pl-pds">&#39;</span></span><span class="pl-pds">)</span></span><span class="pl-pds">&quot;</span></span><span class="pl-pds">)</span></span></td>
+        </tr>
+        <tr>
+          <td id="L142" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="142"></td>
+          <td id="LC142" class="blob-code blob-code-inner js-file-line">_usop=<span class="pl-s"><span class="pl-pds">$(</span>printf <span class="pl-s"><span class="pl-pds">&#39;</span>%-1s<span class="pl-pds">&#39;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-s"><span class="pl-pds">$(</span>top -bn1 <span class="pl-k">|</span> awk <span class="pl-s"><span class="pl-pds">&#39;</span>/Cpu/ { cpu = &quot;&quot; 100 - $8 &quot;%&quot; }; END { print cpu }<span class="pl-pds">&#39;</span></span><span class="pl-pds">)</span></span><span class="pl-pds">&quot;</span></span><span class="pl-pds">)</span></span></td>
+        </tr>
+        <tr>
+          <td id="L143" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="143"></td>
+          <td id="LC143" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L144" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="144"></td>
+          <td id="LC144" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$barra</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L145" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="145"></td>
+          <td id="LC145" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\E[41;1;37mINSTALL PAINEL REVENDA SSH       \033[1;32m[\033[1;37m  VERSAO: r002 \033[1;32m]\E[0m<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L146" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="146"></td>
+          <td id="LC146" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$barra</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L147" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="147"></td>
+          <td id="LC147" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L148" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="148"></td>
+          <td id="LC148" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m01\033[1;31m] \033[1;37m• \033[1;33mPAINEL REVENDA SSH V10       \033[1;31m(ANT) <span class="pl-pds">&quot;</span></span> </td>
+        </tr>
+        <tr>
+          <td id="L149" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="149"></td>
+          <td id="LC149" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m02\033[1;31m] \033[1;37m• \033[1;33mPAINEL REVENDA SSH V10 2     \033[1;31m(DAN) <span class="pl-pds">&quot;</span></span> </td>
+        </tr>
+        <tr>
+          <td id="L150" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="150"></td>
+          <td id="LC150" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m03\033[1;31m] \033[1;37m• \033[1;33mPAINEL REVENDA SSH V11       \033[1;31m(ANT) <span class="pl-pds">&quot;</span></span> </td>
+        </tr>
+        <tr>
+          <td id="L151" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="151"></td>
+          <td id="LC151" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m04\033[1;31m] \033[1;37m• \033[1;33mPAINEL REVENDA SSH V11 2     \033[1;32m(NEW) <span class="pl-pds">&quot;</span></span> </td>
+        </tr>
+        <tr>
+          <td id="L152" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="152"></td>
+          <td id="LC152" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m05\033[1;31m] \033[1;37m• \033[1;33mPAINEL REVENDA SSH V12       \033[1;32m(NEW) <span class="pl-pds">&quot;</span></span> </td>
+        </tr>
+        <tr>
+          <td id="L153" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="153"></td>
+          <td id="LC153" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m06\033[1;31m] \033[1;37m• \033[1;33mPAINEL REVENDA SSH V15       \033[1;31m(ANT) <span class="pl-pds">&quot;</span></span> </td>
+        </tr>
+        <tr>
+          <td id="L154" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="154"></td>
+          <td id="LC154" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m07\033[1;31m] \033[1;37m• \033[1;33mPAINEL REVENDA SSH V15 2     \033[1;31m(OCS) <span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L155" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="155"></td>
+          <td id="LC155" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m08\033[1;31m] \033[1;37m• \033[1;33mPAINEL REVENDA SSH V20       \033[1;32m(NEW) \033[1;37m∆ <span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L156" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="156"></td>
+          <td id="LC156" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m09\033[1;31m] \033[1;37m• \033[1;33mPAINEL REVENDA SSH V20 MOD   \033[1;32m(NEW) <span class="pl-pds">&quot;</span></span> </td>
+        </tr>
+        <tr>
+          <td id="L157" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="157"></td>
+          <td id="LC157" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m10\033[1;31m] \033[1;37m• \033[1;33mPAINEL REVENDA SSH V23       \033[1;32m(NEW) <span class="pl-pds">&quot;</span></span> </td>
+        </tr>
+        <tr>
+          <td id="L158" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="158"></td>
+          <td id="LC158" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m11\033[1;31m] \033[1;37m• \033[1;33mPAINEL VIP-VPS SSH V.23      \033[1;32m(ADE) <span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L159" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="159"></td>
+          <td id="LC159" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m12\033[1;31m] \033[1;37m• \033[1;33mPAINEL VIP-VPS SSH V.25      \033[1;32m(ADE) <span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L160" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="160"></td>
+          <td id="LC160" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m13\033[1;31m] \033[1;37m• \033[1;33mUPDATE VIP-VPS V.23 PARA V25 \033[1;32m(ADE) \033[1;37m√<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L161" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="161"></td>
+          <td id="LC161" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m14\033[1;31m] \033[1;37m• \033[1;33mCLEAN FOLDER                 \033[1;36m(\033[1;31mINESTABLE\033[1;36m) \033[1;37m• <span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L162" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="162"></td>
+          <td id="LC162" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m15\033[1;31m] \033[1;37m• \033[1;33mPAINEL REMOVE                \033[1;36m(\033[1;31mINESTABLE\033[1;36m) \033[1;37m• <span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L163" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="163"></td>
+          <td id="LC163" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m16\033[1;31m] \033[1;35m[!] \033[1;32mACTUALIZAR                \033[1;31mRam:\033[1;37m <span class="pl-smi">$_usor</span> <span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L164" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="164"></td>
+          <td id="LC164" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m17\033[1;31m] \033[1;35m[!] \033[1;31mDESINSTALAR \033[1;35m[\033[1;37m IPW \033[1;35m]       \033[1;31mNucleo:\033[1;37m <span class="pl-smi">$_usop</span> <span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L165" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="165"></td>
+          <td id="LC165" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31m[\033[1;36m00\033[1;31m] \033[1;37mSALIR \033[1;32m&lt;\033[1;33m&lt;\033[1;31m&lt; \033[0m<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L166" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="166"></td>
+          <td id="LC166" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>                           \033[1;37m@AAAAAEXQOSyIpN2JZ0ehUQ\033[0m \033[0m<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L167" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="167"></td>
+          <td id="LC167" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$barra</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L168" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="168"></td>
+          <td id="LC168" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L169" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="169"></td>
+          <td id="LC169" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -ne <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;32mOQUE DESEJA FAZER \033[1;33m?\033[1;31m?\033[1;37m : <span class="pl-pds">&quot;</span></span><span class="pl-k">;</span> <span class="pl-c1">read</span> x</td>
+        </tr>
+        <tr>
+          <td id="L170" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="170"></td>
+          <td id="LC170" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L171" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="171"></td>
+          <td id="LC171" class="blob-code blob-code-inner js-file-line"><span class="pl-k">case</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$x</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">in</span> </td>
+        </tr>
+        <tr>
+          <td id="L172" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="172"></td>
+          <td id="LC172" class="blob-code blob-code-inner js-file-line">1 | 01)</td>
+        </tr>
+        <tr>
+          <td id="L173" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="173"></td>
+          <td id="LC173" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L174" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="174"></td>
+          <td id="LC174" class="blob-code blob-code-inner js-file-line">panel_v10</td>
+        </tr>
+        <tr>
+          <td id="L175" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="175"></td>
+          <td id="LC175" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L176" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="176"></td>
+          <td id="LC176" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L177" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="177"></td>
+          <td id="LC177" class="blob-code blob-code-inner js-file-line">2 | 02)</td>
+        </tr>
+        <tr>
+          <td id="L178" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="178"></td>
+          <td id="LC178" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L179" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="179"></td>
+          <td id="LC179" class="blob-code blob-code-inner js-file-line">panel_v10_2</td>
+        </tr>
+        <tr>
+          <td id="L180" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="180"></td>
+          <td id="LC180" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L181" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="181"></td>
+          <td id="LC181" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L182" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="182"></td>
+          <td id="LC182" class="blob-code blob-code-inner js-file-line">3 | 03)</td>
+        </tr>
+        <tr>
+          <td id="L183" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="183"></td>
+          <td id="LC183" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L184" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="184"></td>
+          <td id="LC184" class="blob-code blob-code-inner js-file-line">panel_v11</td>
+        </tr>
+        <tr>
+          <td id="L185" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="185"></td>
+          <td id="LC185" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L186" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="186"></td>
+          <td id="LC186" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L187" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="187"></td>
+          <td id="LC187" class="blob-code blob-code-inner js-file-line">4 | 04)</td>
+        </tr>
+        <tr>
+          <td id="L188" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="188"></td>
+          <td id="LC188" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L189" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="189"></td>
+          <td id="LC189" class="blob-code blob-code-inner js-file-line">panel_v11_2</td>
+        </tr>
+        <tr>
+          <td id="L190" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="190"></td>
+          <td id="LC190" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L191" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="191"></td>
+          <td id="LC191" class="blob-code blob-code-inner js-file-line">;;      </td>
+        </tr>
+        <tr>
+          <td id="L192" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="192"></td>
+          <td id="LC192" class="blob-code blob-code-inner js-file-line">5 | 05)</td>
+        </tr>
+        <tr>
+          <td id="L193" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="193"></td>
+          <td id="LC193" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L194" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="194"></td>
+          <td id="LC194" class="blob-code blob-code-inner js-file-line">panel_v12</td>
+        </tr>
+        <tr>
+          <td id="L195" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="195"></td>
+          <td id="LC195" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L196" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="196"></td>
+          <td id="LC196" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L197" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="197"></td>
+          <td id="LC197" class="blob-code blob-code-inner js-file-line">6 | 06)</td>
+        </tr>
+        <tr>
+          <td id="L198" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="198"></td>
+          <td id="LC198" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L199" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="199"></td>
+          <td id="LC199" class="blob-code blob-code-inner js-file-line">panel_v15</td>
+        </tr>
+        <tr>
+          <td id="L200" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="200"></td>
+          <td id="LC200" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L201" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="201"></td>
+          <td id="LC201" class="blob-code blob-code-inner js-file-line">;; </td>
+        </tr>
+        <tr>
+          <td id="L202" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="202"></td>
+          <td id="LC202" class="blob-code blob-code-inner js-file-line">7 | 07)</td>
+        </tr>
+        <tr>
+          <td id="L203" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="203"></td>
+          <td id="LC203" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L204" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="204"></td>
+          <td id="LC204" class="blob-code blob-code-inner js-file-line">panel_v15_2</td>
+        </tr>
+        <tr>
+          <td id="L205" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="205"></td>
+          <td id="LC205" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L206" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="206"></td>
+          <td id="LC206" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L207" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="207"></td>
+          <td id="LC207" class="blob-code blob-code-inner js-file-line">8 | 08)</td>
+        </tr>
+        <tr>
+          <td id="L208" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="208"></td>
+          <td id="LC208" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L209" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="209"></td>
+          <td id="LC209" class="blob-code blob-code-inner js-file-line">panel_v20</td>
+        </tr>
+        <tr>
+          <td id="L210" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="210"></td>
+          <td id="LC210" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L211" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="211"></td>
+          <td id="LC211" class="blob-code blob-code-inner js-file-line">;;     </td>
+        </tr>
+        <tr>
+          <td id="L212" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="212"></td>
+          <td id="LC212" class="blob-code blob-code-inner js-file-line">9 | 09)</td>
+        </tr>
+        <tr>
+          <td id="L213" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="213"></td>
+          <td id="LC213" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L214" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="214"></td>
+          <td id="LC214" class="blob-code blob-code-inner js-file-line">panel_v20_mod</td>
+        </tr>
+        <tr>
+          <td id="L215" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="215"></td>
+          <td id="LC215" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L216" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="216"></td>
+          <td id="LC216" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L217" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="217"></td>
+          <td id="LC217" class="blob-code blob-code-inner js-file-line">10)</td>
+        </tr>
+        <tr>
+          <td id="L218" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="218"></td>
+          <td id="LC218" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L219" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="219"></td>
+          <td id="LC219" class="blob-code blob-code-inner js-file-line">panel_v23</td>
+        </tr>
+        <tr>
+          <td id="L220" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="220"></td>
+          <td id="LC220" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L221" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="221"></td>
+          <td id="LC221" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L222" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="222"></td>
+          <td id="LC222" class="blob-code blob-code-inner js-file-line">11)</td>
+        </tr>
+        <tr>
+          <td id="L223" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="223"></td>
+          <td id="LC223" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L224" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="224"></td>
+          <td id="LC224" class="blob-code blob-code-inner js-file-line">panel_v23_2</td>
+        </tr>
+        <tr>
+          <td id="L225" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="225"></td>
+          <td id="LC225" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L226" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="226"></td>
+          <td id="LC226" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L227" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="227"></td>
+          <td id="LC227" class="blob-code blob-code-inner js-file-line">12)</td>
+        </tr>
+        <tr>
+          <td id="L228" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="228"></td>
+          <td id="LC228" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L229" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="229"></td>
+          <td id="LC229" class="blob-code blob-code-inner js-file-line">panel_v25</td>
+        </tr>
+        <tr>
+          <td id="L230" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="230"></td>
+          <td id="LC230" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L231" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="231"></td>
+          <td id="LC231" class="blob-code blob-code-inner js-file-line">;;     </td>
+        </tr>
+        <tr>
+          <td id="L232" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="232"></td>
+          <td id="LC232" class="blob-code blob-code-inner js-file-line">13)</td>
+        </tr>
+        <tr>
+          <td id="L233" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="233"></td>
+          <td id="LC233" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L234" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="234"></td>
+          <td id="LC234" class="blob-code blob-code-inner js-file-line">panel_update2325</td>
+        </tr>
+        <tr>
+          <td id="L235" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="235"></td>
+          <td id="LC235" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L236" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="236"></td>
+          <td id="LC236" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L237" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="237"></td>
+          <td id="LC237" class="blob-code blob-code-inner js-file-line">14)</td>
+        </tr>
+        <tr>
+          <td id="L238" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="238"></td>
+          <td id="LC238" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L239" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="239"></td>
+          <td id="LC239" class="blob-code blob-code-inner js-file-line">clean_folder</td>
+        </tr>
+        <tr>
+          <td id="L240" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="240"></td>
+          <td id="LC240" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L241" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="241"></td>
+          <td id="LC241" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L242" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="242"></td>
+          <td id="LC242" class="blob-code blob-code-inner js-file-line">15)</td>
+        </tr>
+        <tr>
+          <td id="L243" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="243"></td>
+          <td id="LC243" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L244" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="244"></td>
+          <td id="LC244" class="blob-code blob-code-inner js-file-line">remove_panel</td>
+        </tr>
+        <tr>
+          <td id="L245" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="245"></td>
+          <td id="LC245" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L246" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="246"></td>
+          <td id="LC246" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L247" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="247"></td>
+          <td id="LC247" class="blob-code blob-code-inner js-file-line">16)</td>
+        </tr>
+        <tr>
+          <td id="L248" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="248"></td>
+          <td id="LC248" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L249" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="249"></td>
+          <td id="LC249" class="blob-code blob-code-inner js-file-line">atualizar</td>
+        </tr>
+        <tr>
+          <td id="L250" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="250"></td>
+          <td id="LC250" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L251" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="251"></td>
+          <td id="LC251" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L252" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="252"></td>
+          <td id="LC252" class="blob-code blob-code-inner js-file-line">17)</td>
+        </tr>
+        <tr>
+          <td id="L253" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="253"></td>
+          <td id="LC253" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L254" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="254"></td>
+          <td id="LC254" class="blob-code blob-code-inner js-file-line">remove_multiscripts</td>
+        </tr>
+        <tr>
+          <td id="L255" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="255"></td>
+          <td id="LC255" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L256" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="256"></td>
+          <td id="LC256" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L257" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="257"></td>
+          <td id="LC257" class="blob-code blob-code-inner js-file-line">0 | 00)</td>
+        </tr>
+        <tr>
+          <td id="L258" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="258"></td>
+          <td id="LC258" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[1;31mSaindo...\033[0m<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L259" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="259"></td>
+          <td id="LC259" class="blob-code blob-code-inner js-file-line">sleep 2</td>
+        </tr>
+        <tr>
+          <td id="L260" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="260"></td>
+          <td id="LC260" class="blob-code blob-code-inner js-file-line">clear</td>
+        </tr>
+        <tr>
+          <td id="L261" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="261"></td>
+          <td id="LC261" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exit</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L262" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="262"></td>
+          <td id="LC262" class="blob-code blob-code-inner js-file-line">;;</td>
+        </tr>
+        <tr>
+          <td id="L263" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="263"></td>
+          <td id="LC263" class="blob-code blob-code-inner js-file-line"><span class="pl-k">*</span>)</td>
+        </tr>
+        <tr>
+          <td id="L264" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="264"></td>
+          <td id="LC264" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\n\033[1;31mOpcao invalida !\033[0m<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L265" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="265"></td>
+          <td id="LC265" class="blob-code blob-code-inner js-file-line"><span class="pl-k">esac</span></td>
+        </tr>
+        <tr>
+          <td id="L266" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="266"></td>
+          <td id="LC266" class="blob-code blob-code-inner js-file-line"><span class="pl-k">done</span></td>
+        </tr>
+        <tr>
+          <td id="L267" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="267"></td>
+          <td id="LC267" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L268" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="268"></td>
+          <td id="LC268" class="blob-code blob-code-inner js-file-line">menu</td>
+        </tr>
+        <tr>
+          <td id="L269" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="269"></td>
+          <td id="LC269" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>fim</span></td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blame/112404c3463dd46b757367a412f907297d285656/Install/Panel_Web/Panelweb.sh">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
 
-  </readme-toc>
 
   
 
@@ -2539,17 +3668,6 @@
 </button>
 </form>    </details-dialog>
   </details>
-
-    <div class="Popover anim-scale-in js-tagsearch-popover"
-     hidden
-     data-tagsearch-url="/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/find-definition"
-     data-tagsearch-ref="master"
-     data-tagsearch-code-nav-context="BLOB_VIEW">
-  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
-    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
-    </div>
-  </div>
-</div>
 
 
 </div>
