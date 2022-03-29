@@ -27,29 +27,25 @@ echo -e "\033[1;33m]\033[1;37m -\033[1;32m OK !\033[1;37m"
 tput cnorm
 }
 #
-rm /root/painelv25.sh > /dev/null 2>&1
-rm $HOME/painelv25.sh > /dev/null 2>&1
-rm /root/PAINEL-V.25.zip > /dev/null 2>&1
-rm $HOME/PAINEL-V.25.zip > /dev/null 2>&1
+rm /root/painelv23.sh > /dev/null 2>&1
+rm $HOME/painelv23.sh > /dev/null 2>&1
+rm /root/painelwv20.zip > /dev/null 2>&1
+rm $HOME/painelwv20.zip > /dev/null 2>&1
 IP=$(wget -qO- ipv4.icanhazip.com)
 echo "America/Sao_Paulo" > /etc/timezone
 ln -fs /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime > /dev/null 2>&1
 dpkg-reconfigure --frontend noninteractive tzdata > /dev/null 2>&1
-rm $HOME/painelv25.sh > /dev/null 2>&1
-rm /root/PAINEL-V.25.zip > /dev/null 2>&1
+rm $HOME/painelv23.sh > /dev/null 2>&1
+rm /root/painelwv20.zip > /dev/null 2>&1
 
-echo -e "\E[44;1;37m    INSTALAR O PAINEL SSH/DROP/SSL V.23 VIP-VPS     \E[0m"
-apt-get install figlet -y > /dev/null 2>&1
-echo ""
-echo -e "                              \033[1;31mBy @adeilsonfi\033[1;36m"
-echo -e "   VIP-vps" | figlet 
+echo -e "\E[44;1;37m    INSTALAR O PAINEL SSH/DROP/SSL V.23 VIP-VPS     \E[0m" 
 echo ""
 echo -ne "\n\033[1;32m  DEFINA UMA SENHA PARA O\033[1;33m MySQL\033[1;37m: "; read senha
 echo -e "\n\033[1;36m  INICIANDO INSTALACAO \033[1;33m"
 echo ""
 echo -e "           \033[1;33m● \033[1;32mATUALIZANDO LINUX, Pode Demorar \033[1;33m●\033[0m"
 fun_update () {
-    apt-get update -y > /dev/null 2>&1 
+    apt-get update -y > /dev/null 2>&1
 }
 fun_bar 'fun_update'
 echo ""
@@ -127,9 +123,6 @@ echo ""
 clear
 echo -e "\E[44;1;37m    INSTALAR O PAINEL SSH/DROP/SSL V.23 VIP-VPS     \E[0m"
 echo ""
-echo -e "                              \033[1;31mBy @adeilsonfi\033[1;36m"
-echo -e "   VIP-vps" | figlet
-echo ""
 echo -e "\033[1;31m ATENCAO \033[1;33m!!!"
 echo ""
 echo -ne "\033[1;32m INFORME A MESMA SENHA\033[1;37m: "; read senha
@@ -142,10 +135,10 @@ clear
 #
 echo -e "           \033[1;33m● \033[1;32mFINALIZANDO INSTALACAO, PODE DEMORAR \033[1;33m● \033[1;33mAGUARDE...\033[0m"
 cd /var/www/html
-wget http://www.painelweb.tk/PAINEL-V.25.zip > /dev/null 2>&1
+wget http://www.painelweb.tk/painelwv23.zip > /dev/null 2>&1
 sleep 1
-unzip PAINEL-V.25.zip > /dev/null 2>&1
-rm -rf PAINEL-V.25.zip index.html > /dev/null 2>&1
+unzip painelwv23.zip > /dev/null 2>&1
+rm -rf painelwv23.zip index.html > /dev/null 2>&1
 service apache2 restart
 sleep 1
 if [[ -e "/var/www/html/pages/system/pass.php" ]]; then
@@ -162,7 +155,7 @@ else
     clear
     echo -e "\033[1;31m ERRO AO IMPORTAR BANCO DE DADOS\033[0m"
     sleep 2
-    rm /root/painelwv25.sh > /dev/null 2>&1
+    rm /root/painelwv23.sh > /dev/null 2>&1
     exit
 fi
 service apache2 restart
@@ -196,26 +189,12 @@ clear
 echo ""
 #
 clear
-echo -e "\033[1;32m PAINEL-SSH v.25 INSTALADO COM SUCESSO!"
+echo -e "\033[1;32m PAINEL-SSH v.23 INSTALADO COM SUCESSO!"
 echo ""
 echo -e "\033[1;36m SEU PAINEL:\033[1;37m http://$IP/\033[0m"
 echo -e "\033[1;36m USUARIO:\033[1;37m admin\033[0m"
 echo -e "\033[1;36m SENHA:\033[1;37m admin\033[0m"
 echo ""
 echo -e "\033[1;33m Altere a senha quando logar no painel>> Configuracoes>> Senha Antiga: admin >> Nova Senha: \033[0m"
-cd /bin/
-wget http://painelweb.tk/mkey/gerar > /dev/null 2>&1
-chmod +x /bin/gerar
-sed -i -e 's/\r$//' gerar
-cd
-echo 'gerar' >> /root/.bashrc
-sed -i "s;upload_max_filesize = 2M;upload_max_filesize = 20M;g" /etc/php5/apache2/php.ini > /dev/null 2>&1
-service apache2 restart
-echo ""
-echo -e "\033[1;31m A VPS SERA REINICIADO EM 5 SEGUNDOS...\033[0m"
-sleep 6
-echo -e "\033[1;31mREINICIANDO...\033[0m"
-shutdown -r now
 cat /dev/null > ~/.bash_history && history -c
-rm /root/painelv25.sh > /dev/null 2>&1
-rm /root/PAINEL-V.25.zip > /dev/null 2>&1
+rm /root/painelwv20.zip > /dev/null 2>&1
